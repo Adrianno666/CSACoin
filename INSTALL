@@ -1,0 +1,5 @@
+Building csacoin
+
+See the csacoin github wiki (https://github.com/csacoin/csacoin/wiki) for instructions on building csacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of csacoin.
